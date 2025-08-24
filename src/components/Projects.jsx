@@ -9,7 +9,7 @@ import { useEffect, useRef } from "react";
 export const projects = [
   {
     title: "Spin & Roll",
-    url: "https://play.google.com/store/apps/details?id=com.hungamagamestudio.bb",
+    url: "https://play.google.com/store/apps/details?id=com.hungamagamestudio.newsnr",
     image: "projects/spin_roll.png",
     description: "3d betting game with coins",
   },
