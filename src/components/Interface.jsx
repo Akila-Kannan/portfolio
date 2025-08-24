@@ -68,7 +68,22 @@ const AboutSection = (props) => {
           delay: 1.5,
         }}
       >
-        I am a programmer who loves Gaming and XR
+       I am an experienced game developer with a passion for creating immersive augmented reality (AR), virtual reality (VR), and mixed reality (MR) experiences. I have over 7 years of experience building games and applications using Unity, Three.js, Phaser, and LibGDX.
+
+
+My expertise is in casino game development, having worked on popular titles like slots, keno, rummy, and roulette. I focus on mechanics that keep players engaged while also incorporating stunning visuals, sounds, and special effects.
+
+
+Additionally, I have developed casual games for mobile and web, taking ideas from prototype to launched product. My process involves rapid iteration through prototyping, playtesting, analytics review and gameplay optimization.
+
+
+On the AR/VR front, I have worked on cutting-edge apps that leverage face tracking and environmental mapping technology from providers like JeeLiz and 8thWall. I integrated these third-party plugins into Unity and Three.js pipelines to create next-generation social AR experiences.
+
+
+I thrive on finding inventive solutions to complex technical problems in mixed reality and pushing the boundaries of what's possible. Please reach out if you need an experienced MR developer to join your team as we build the future of immersive games and apps together!
+
+
+
         
      
       </motion.p>
