@@ -194,11 +194,12 @@ const ProjectsSection = ({ focused }) => {
 
   return (
     <Section>
-      <div className="project-nav">
-        <div className={`project-heading ${focused ? "is-focused" : ""}`} aria-hidden={!focused}>
+      <div className={`project-heading ${focused ? "is-focused" : ""}`} aria-hidden={!focused}>
           <span className="eyebrow">Selected work</span>
           <h2 className="section-title">Made to play.</h2>
         </div>
+      <div className="project-nav">
+        
         <button
           className="nav-arrow"
           onClick={previousProject}
