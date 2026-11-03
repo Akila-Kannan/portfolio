@@ -10,7 +10,7 @@ export const projects = [
   {
     title: "Color Addict",
     url: "https://color-addict.onrender.com",
-    image: "projects/color_adict.png",
+    image: "projects/color_addict.png",
     description: "Use React Three Fiber to create a 3D game",
   },
   {
