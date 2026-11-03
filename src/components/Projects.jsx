@@ -106,7 +106,7 @@ export const Projects = () => {
   const [currentProject] = useAtom(currentProjectAtom);
 
   return (
-    <group position-y={-viewport.height * 2 + 1}>
+    <group position-y={-viewport.height * 2 + 0.4}>
       {projects.map((project, index) => (
         <motion.group
           key={"project_" + index}
