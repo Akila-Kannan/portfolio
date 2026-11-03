@@ -8,6 +8,12 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
+    title: "Color Addict",
+    url: "https://color-addict.onrender.com",
+    image: "projects/color_adict.png",
+    description: "Use React Three Fiber to create a 3D game",
+  },
+  {
     title: "Spin & Roll",
     url: "https://play.google.com/store/apps/details?id=com.hungamagamestudio.newsnr",
     image: "projects/spin_roll.png",
@@ -38,6 +44,7 @@ export const projects = [
     image: "projects/github.png",
     description: "Use React Three Fiber to create a 3D game",
   },
+
 ];
 
 const Project = (props) => {
